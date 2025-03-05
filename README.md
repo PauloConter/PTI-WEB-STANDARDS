@@ -38,7 +38,7 @@ $ git clone https://github.com/PauloConter/PTI-WEB-STANDARDS.git
 # Acesse a pasta do projeto
 $ cd PTI-WEB-STANDARDS
 
-# Abra o arquivo index.html no navegador
+# Abra https://veterinariojs.netlify.app/#contact no navegador
 ```
 
 ## 📬 Contato
